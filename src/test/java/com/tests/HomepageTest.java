@@ -2,7 +2,7 @@ package com.tests;
 
 import org.testng.annotations.Test;
 
-public class HomeTest {
+public class HomepageTest {
 	
 	@Test
 	public void homeTest(){
